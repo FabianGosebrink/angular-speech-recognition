@@ -1,5 +1,10 @@
 # AngularSpeechRecognition
 
+<video controls="controls">
+  <source type="video/mp4" src="AngularSpeechRecognition.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server
