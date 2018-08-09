@@ -1,8 +1,10 @@
 # AngularSpeechRecognition
 
-<video controls="controls">
-  <source type="video/mp4" src="AngularSpeechRecognition.mp4"></source>
-  <p>Your browser does not support the video element.</p>
+<script src="http://vjs.zencdn.net/4.0/video.js"></script>
+
+<video id="pelican-installation" class="video-js vjs-default-skin" controls preload="auto" width="683" height="384" poster="/static/screencasts/pelican-installation.png" data-setup="{}">
+
+<source src=".github/AngularSpeechRecognition.mp4" type='video/mp4'>
 </video>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
