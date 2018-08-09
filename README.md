@@ -1,8 +1,5 @@
 # AngularSpeechRecognition
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;So are you enjoying the sun?&quot; <br>Me &quot;Nah...&quot; <br>&quot;So what else are yer doing?&quot;<br>Me: ... (sound on)<a href="https://twitter.com/hashtag/angular?src=hash&amp;ref_src=twsrc%5Etfw">#angular</a> <a href="https://twitter.com/hashtag/speechrecognition?src=hash&amp;ref_src=twsrc%5Etfw">#speechrecognition</a> <a href="https://twitter.com/hashtag/fun?src=hash&amp;ref_src=twsrc%5Etfw">#fun</a> <a href="https://twitter.com/hashtag/playing?src=hash&amp;ref_src=twsrc%5Etfw">#playing</a> <a href="https://t.co/E3vGxbbJJl">pic.twitter.com/E3vGxbbJJl</a></p>&mdash; Fabian Gosebrink @ 🇨🇭 (@FabianGosebrink) <a href="https://twitter.com/FabianGosebrink/status/1027518645289791488?ref_src=twsrc%5Etfw">August 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server
